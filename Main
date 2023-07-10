@@ -1,0 +1,1 @@
+local table = game:GetService("HttpService"):JSONDecode(game:HttpGet("")).Digest
